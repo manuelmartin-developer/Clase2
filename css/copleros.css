@@ -1,0 +1,55 @@
+body{
+    background-color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+h2{
+    font-size: 22pt;
+    font-weight: bold;
+}
+hr{
+    width: 90%;
+}
+
+.copler1, .copler2, .copler3, .copler4{
+    background-color: #F5F5F5;
+    width: 480px;
+    border-bottom: 1px lightgray solid;
+}
+.container{
+    background-color: #F5F5F5;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+img{
+    height: 150px;
+    border-radius: 100px;
+    padding: 10px;
+}
+address{
+    color: darkgray;
+    font-size: 18pt;
+}
+
+figure{
+   display: flex;
+   align-items: center;
+
+   
+} 
+figcaption{
+    margin-left: 10px;
+    line-height: 8px;
+    display: block;
+
+    
+}
+
+
